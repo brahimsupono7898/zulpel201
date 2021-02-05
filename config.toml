@@ -1,0 +1,4 @@
+baseURL = "https://mdxacurafreevoon.vercel.app"
+languageCode = "en-us"
+title = "About Acura MDX 2021"
+theme = "hugo-theme-minos"
